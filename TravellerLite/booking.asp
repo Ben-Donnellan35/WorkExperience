@@ -101,11 +101,6 @@
 		<input type="text">
 		Special Requests:
 		<input type="text">
-		Date From:
-		<input type="text">
-		Date To:
-		<input type="text">
-		<input type="submit" value="submit">
 	</form>
 </body>
 </html>
